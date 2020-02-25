@@ -1,0 +1,7 @@
+Tópicos
+Neste desafio você aprenderá:
+
+Criar um repositório local
+Criar um repositório remoto
+Criar branches
+Sincronizar branches locais com um repositório remoto
